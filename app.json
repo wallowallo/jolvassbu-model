@@ -1,0 +1,11 @@
+{
+  "name": "Angular 2 Jolvassbu",
+  "description": "Angular 2 Universal Jolvassbu model",
+  "repository": "https://github.com/wallowallo/jolvassbu-model",
+  "env": {
+    "NPM_CONFIG_PRODUCTION": {
+      "description": "Install `webpack` and other development modules when deploying to allow full builds.",
+      "value": "false"
+    }
+  }
+}
