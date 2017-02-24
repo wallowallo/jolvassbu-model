@@ -1,0 +1,159 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/core/theming/prebuilt/deeppurple-amber.css';
+
+* {
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-style: normal;
+	font-variant: normal;
+}
+
+body {
+  margin: 0;
+}
+
+div.mat-sidenav-content {
+  background-color: LightCyan;
+}
+
+.jola, .persbua, .elvestova, .livingRoom, .tv, .diningTable, .kitchen, .introImg {
+  background-size: cover;
+}
+
+.introCard {
+  margin: 40px auto;
+  width: 660px;
+}
+
+.link:link, .link:visited {
+  background-color: LightSkyBlue;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+
+.link:hover, .link:active {
+  background-color: DodgerBlue;
+}
+
+.sidenav {
+	background-color: SkyBlue;
+}
+
+md-toolbar.mat-primary.mat-toolbar {
+  background-color: LightSkyBlue;
+}
+
+.logo {
+  width: 170px;
+  height: 60px;
+  margin-left:120px;
+}
+
+.cabin {
+  margin: 5px;
+  width: 250px;
+  height: 170px;
+  display: inline-block;
+}
+
+.cabins {
+  margin: 10px auto;
+  width: 950px;
+}
+
+.insideCabins {
+  width: 200px;
+  height: 160px;
+  margin: 20px;
+  display: inline-block;
+}
+
+.imageCards {
+  width: 590px;
+  margin: 0px auto 30px auto;
+}
+
+.cabinHeader, .caravanHeader {
+  text-align: center;
+}
+
+.selet {
+  width: 310px;
+}
+
+.holsbua {
+  width: 630px;
+}
+
+.selet, .holsbua, .caravans, .facilities {
+  margin: 10px auto;
+}
+
+.footerText {
+  margin: 5px auto;
+}
+
+.caravans {
+  width: 630px;
+}
+
+.facilities {
+  width: 590px;
+}
+
+.bench {
+  width: 290px;
+  margin: 10px auto;
+}
+
+.pSpace {
+  margin-top: 40px;
+}
+
+.facility {
+  width: 530px;
+}
+
+.vandring {
+  display: inline-block;
+  width: 240px;
+}
+
+.fishing {
+  width: 220px;
+  height: 320px;
+  display: inline-block;
+}
+
+.fisher {
+  width: 550px;
+  margin: 0 auto;
+}
+
+.mailForm {
+  width: 540px;
+  margin: 40px auto;
+}
+
+.carouselCard {
+  width: 570px;
+  height: 400px;
+  margin: 20px auto;
+}
+
+.cabinPrice {
+  margin: 0 auto 30px auto;
+  width: 570px;
+}
+
+.carouselCard2 {
+  width: 570px;
+  height: 450px;
+  margin: 20px auto;
+}
+
+div.mat-menu-content {
+  background-color: LightSkyBlue;
+}
